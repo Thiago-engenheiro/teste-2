@@ -74,37 +74,37 @@ ol,ul {
 @font-face {
     font-family: "Neue Montreal";
     font-weight: 200;
-    src: url("/assets/font/PPNeueMontreal-Thin.woff2") format("woff2")
+    src: url("/font/PPNeueMontreal-Thin.woff2") format("woff2")
 }
 
 @font-face {
     font-family: "Neue Montreal";
     font-weight: 400;
-    src: url("/assets/font/PPNeueMontreal-Book.woff2") format("woff2")
+    src: url("/font/PPNeueMontreal-Book.woff2") format("woff2")
 }
 
 @font-face {
     font-family: "Neue Montreal";
     font-weight: 600;
-    src: url("/assets/font/PPNeueMontreal-SemiBold.woff2") format("woff2")
+    src: url("/font/PPNeueMontreal-SemiBold.woff2") format("woff2")
 }
 
 @font-face {
     font-family: "Neue Montreal Mono";
     font-weight: 200;
-    src: url("/assets/font/PPNeueMontrealMono-Thin.woff2") format("woff2")
+    src: url("/font/PPNeueMontrealMono-Thin.woff2") format("woff2")
 }
 
 @font-face {
     font-family: "Neue Montreal Mono";
     font-weight: 400;
-    src: url("/assets/font/PPNeueMontrealMono-Book.woff2") format("woff2")
+    src: url("/font/PPNeueMontrealMono-Book.woff2") format("woff2")
 }
 
 @font-face {
     font-family: "Neue Montreal Mono";
     font-weight: 600;
-    src: url("/assets/font/PPNeueMontrealMono-SemiBold.woff2") format("woff2")
+    src: url("/font/PPNeueMontrealMono-SemiBold.woff2") format("woff2")
 }
 
 html,body {
@@ -698,7 +698,7 @@ body.is-monospaced {
   @font-face {
   
       font-family: 'Gilroy-Light';
-      src: url('/assets/font/Gilroy-Light.ttf') format('truetype');
+      src: url('/font/Gilroy-Light.ttf') format('truetype');
       font-weight: normal;
       font-style: normal;
   
@@ -707,7 +707,7 @@ body.is-monospaced {
   @font-face {
   
       font-family: 'Gilroy-SemiBold';
-      src: url('/assets/font/Gilroy-SemiBold.ttf') format('truetype');
+      src: url('/font/Gilroy-SemiBold.ttf') format('truetype');
       font-weight: normal;
       font-style: normal;
   
@@ -716,7 +716,7 @@ body.is-monospaced {
   @font-face {
   
       font-family: 'Gilroy-ThinItalic';
-      src: url('/assets/font/Gilroy-Thin.ttf') format('truetype');
+      src: url('/font/Gilroy-Thin.ttf') format('truetype');
       font-weight: normal;
       font-style: normal;
   
@@ -725,7 +725,7 @@ body.is-monospaced {
   @font-face {
   
       font-family: 'Gilroy-Thin';
-      src: url('/assets/font/Gilroy-ThinItalic.ttf') format('truetype');
+      src: url('/font/Gilroy-ThinItalic.ttf') format('truetype');
       font-weight: normal;
       font-style: normal;
   
